@@ -11,6 +11,7 @@ namespace FrostWebEditor
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// Happy Thxgiving
         [STAThread]
         static void Main()
         {
